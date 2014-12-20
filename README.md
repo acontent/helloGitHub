@@ -1,4 +1,6 @@
 helloGitHub
 ===========
 
-Test repository
+this is a test repository
+
+First attempt
